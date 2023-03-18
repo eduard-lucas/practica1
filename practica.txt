@@ -9,3 +9,5 @@ T-T
 voy a clonarlo. 
 
 voua  subrilo a github x.x 3.3.
+
+ _> habe rbajando cambios -> local
